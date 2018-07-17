@@ -1,4 +1,4 @@
-var playlist = new Object ({Phil_Ochs: "Here's to the State of Mississipi"});
+var playlist = new Object ({Phil Ochs: "Here's to the State of Mississipi"});
 
 function updatePlaylist(targetObject, artistName, songTitle){
   playlist['Slowdive'] = 'Alison';
