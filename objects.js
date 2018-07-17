@@ -7,10 +7,10 @@ function updatePlaylist(playlist, artistName, songTitle){
 }
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist.Phil Ochs: "Here's to the State of Mississippi";
+  playlist['Phil Ochs'] = "Here's to the State of Mississippi";
   return playlist;
 }
-    
+
 function removeFromPlaylist(object, artistName){
   delete playlist.Slowdive;
   return playlist;
