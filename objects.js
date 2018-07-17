@@ -1,4 +1,4 @@
-var playlist = {The Beatles: 'Let it be'}
+var playlist = {The Beatles: 'Let it be'};
 playlist.Slowdive = 'Alison';
 playlist.My Bloody Valentine = 'Sometimes';
 
