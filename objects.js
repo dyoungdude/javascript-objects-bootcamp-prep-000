@@ -1,7 +1,8 @@
+var playlist = new Object();
 var playlist = {Slowdive: 'Alison', My Bloody Valentine: 'Sometimes'};
 
 function updatePlaylist(playlist, artistName, songTitle){
-  playlist['Phil Ochs']: "Here's to the State of Mississipi";
+  playlist['Phil Ochs'] = "Here's to the State of Mississipi";
   return playlist;
 }
 
